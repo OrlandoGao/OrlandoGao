@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrlandoGao
-- 👀 I’m interested in C/C++
+- 👀 I’m interested in golang
 - 💞️ I’m from China
 
 <!---
